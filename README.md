@@ -1,5 +1,5 @@
 # Religious Studies Podcast Feeds
-[![Netlify Status](https://api.netlify.com/api/v1/badges/528714c2-80f7-49db-adfb-dc05ecedb5d3/deploy-status)](https://app.netlify.com/sites/rs-podcasts/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/528714c2-80f7-49db-adfb-dc05ecedb5d3/deploy-status)](https://app.netlify.com/sites/rs-podcasts/deploys) [![Update site](https://github.com/adamdjbrett/podcasts.rs-rss.com/actions/workflows/scheduled_build.yml/badge.svg)](https://github.com/adamdjbrett/podcasts.rs-rss.com/actions/workflows/scheduled_build.yml)
 
 ## Multiplicity - RSS Aggregator Starter Based On Eleventy
 
