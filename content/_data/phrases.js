@@ -7,7 +7,8 @@ module.exports = {
   newerArticles: "Newer",
   olderArticles: "Older",
   menu: {
-    sites: "Sites",
+    podcasts: "Podcasts",
+    sites: "Podcasts",
     about: "About",
     rss: "RSS",
     toggleTheme: "☀︎/☾",

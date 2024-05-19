@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Sites
+title: Podcasts
 eleventyExcludeFromCollections: true
-permalink: /sites/
-canonical: /sites/
+permalink: /podcasts/
+canonical: /podcasts/
 ---
 
 This is a list of RSS feeds added to the aggregator. Modify it by adding / editing files in `content/sites` directory.
