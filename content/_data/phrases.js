@@ -8,7 +8,7 @@ module.exports = {
   olderArticles: "Older",
   menu: {
     podcasts: "Podcasts",
-    sites: "Podcasts",
+    sites: "Sites",
     about: "About",
     rss: "RSS",
     toggleTheme: "☀︎/☾",
