@@ -1,14 +1,14 @@
 const packageJson = require("../../package.json");
 
 module.exports = {
-  title: "Religious Studies Podcast",
+  title: "Religious Studies Podcasts",
   description: "Religious Studies Podcast RSS aggregator",
   author: "Multiple Authors",
-  url: "https://eleventy-m10y.lkmt.us/",
+  url: "https://podcasts.rs-rss.com/",
   github: {
-    project: "https://github.com/lwojcik/eleventy-template-m10y",
+    project: "https://github.com/adamdjbrett/podcasts.rs-rss.com",
   },
-  userAgent: "m10y-https://eleventy-m10y.lkmt.us",
+  userAgent: "https://podcasts.rs-rss.com/",
   language: "en",
   generator: {
     name: "Eleventy",
